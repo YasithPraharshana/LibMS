@@ -75,4 +75,3 @@ LibMS/
 - This project is for learning and practice purposes.
 - You can extend it by adding file handling, database integration, or a GUI.
 - Make sure all Java files are in the same folder when compiling.
-```
