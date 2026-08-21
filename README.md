@@ -1,3 +1,4 @@
+```markdown
 # LibMS - Library Management System
 
 A lightweight, interactive Java console-based Library Management System built using Core Java and Object-Oriented Programming (OOP) principles.
@@ -20,12 +21,14 @@ A lightweight, interactive Java console-based Library Management System built us
 ## 🏗 System Architecture
 
 The project is structured following clean coding principles and modular design:
+
 ```text
 LibMS/
 ├── Main.java            # Entry point & User Authentication
 ├── Menu.java            # UI Component & User Option Switching
 ├── Book.java            # Model Class (Encapsulation)
 └── LibraryManager.java  # Business Logic (ArrayList Operations)
+```
 
 ---
 
@@ -44,17 +47,34 @@ LibMS/
 
 ### Prerequisites
 
-* Java Development Kit (JDK 8 or higher) installed.
+- Java Development Kit (JDK 8 or higher) installed.
 
 ### How to Run
 
 1. **Clone the repository:**
-   git clone [https://github.com/YasithPraharshana/LibMS.git](https://github.com/YasithPraharshana/LibMS.git)
-  cd LibMS
-   
-3. **Compile the Java files:**
-   ```javac Main.java```
-4. **Run the application:**
-    ```java Main```
-5. **Default Credentials:**
-    Password: `Pass`
+   ```bash
+   git clone https://github.com/YasithPraharshana/LibMS.git
+   cd LibMS
+   ```
+
+2. **Compile the Java files:**
+   ```bash
+   javac Main.java
+   ```
+
+3. **Run the application:**
+   ```bash
+   java Main
+   ```
+
+4. **Default Credentials:**
+   - Password: `Pass`
+
+---
+
+## ✨ Notes
+
+- This project is for learning and practice purposes.
+- You can extend it by adding file handling, database integration, or a GUI.
+- Make sure all Java files are in the same folder when compiling.
+```
