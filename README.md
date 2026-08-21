@@ -48,13 +48,12 @@ LibMS/
 ### How to Run
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YasithPraharshana/LibMS.git](https://github.com/YasithPraharshana/LibMS.git)
-   cd LibMS```
+   ```bash git clone https://github.com/YasithPraharshana/LibMS.git
+      cd LibMS```
    
-2. **Compile the Java files:**
+3. **Compile the Java files:**
    ```javac Main.java```
-3. **Run the application:**
+4. **Run the application:**
     ```java Main```
-4. **Default Credentials:**
-    Password: Pass
+5. **Default Credentials:**
+    Password: `Pass`
