@@ -1,4 +1,3 @@
-```markdown
 # LibMS - Library Management System
 
 A lightweight, interactive Java console-based Library Management System built using Core Java and Object-Oriented Programming (OOP) principles.
@@ -19,7 +18,6 @@ A lightweight, interactive Java console-based Library Management System built us
 ---
 
 ## 🏗 System Architecture
-
 The project is structured following clean coding principles and modular design:
 
 ```text
