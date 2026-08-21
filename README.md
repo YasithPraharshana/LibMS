@@ -20,11 +20,12 @@ A lightweight, interactive Java console-based Library Management System built us
 ## 🏗 System Architecture
 
 The project is structured following clean coding principles and modular design:
+```text
 LibMS/
 ├── Main.java            # Entry point & User Authentication
 ├── Menu.java            # UI Component & User Option Switching
 ├── Book.java            # Model Class (Encapsulation)
-└── LibraryManager.java   # Business Logic (ArrayList Operations)
+└── LibraryManager.java  # Business Logic (ArrayList Operations)
 
 ---
 
@@ -48,8 +49,8 @@ LibMS/
 ### How to Run
 
 1. **Clone the repository:**
-   ```bash git clone https://github.com/YasithPraharshana/LibMS.git
-      cd LibMS```
+   git clone [https://github.com/YasithPraharshana/LibMS.git](https://github.com/YasithPraharshana/LibMS.git)
+  cd LibMS
    
 3. **Compile the Java files:**
    ```javac Main.java```
